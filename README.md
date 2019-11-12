@@ -8,3 +8,4 @@ My simple calculator app is a modern Windows app written in C#. The calculator h
 
 - A switch statement would have been more efficient than a set of nested ifs.
 - Developed an interface Button and TextBox.
+- Write simple math operations with C#.
